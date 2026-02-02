@@ -12,7 +12,7 @@ Imagine an employee whose Outlook crashes every time they open it. They launch S
 - **Ticket classification** into standard IT categories (network, hardware, software bug, access request, password reset, other).
 - **Knowledge base retrieval** via Azure AI Search + OpenAI embeddings to surface similar, proven solutions.
 - **User feedback loop** with escalation flow and ticket ID generation.
-- **Email notification** when escalation is required.【
+- **Email notification** when escalation is required.
 - **Streamlit UI** with custom styling for a friendly, support-centric experience.
 
 ## Architecture at a glance
