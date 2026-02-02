@@ -2,7 +2,7 @@
 
 SupportX AI Assist is a multi-agent, LLM-powered IT support assistant that triages tickets, searches a vectorized knowledge base, and escalates unresolved issues. The app offers a Streamlit chat-style UI where users describe their issue, receive a suggested resolution, and provide feedback. If the user indicates the answer was not helpful, the system generates a ticket ID and notifies IT support via an email escalation workflow.
 
-## Story overview
+## Overview
 
 Imagine an employee whose Outlook crashes every time they open it. They launch SupportX AI Assist and describe the issue. The **ClassifierAgent** labels the ticket type, then the **KnowledgeBaseAgent** performs a vector search across historical fixes and returns the most relevant resolution. The assistant summarizes the solution and the employee tries it. If the fix works, they confirm success. If not, SupportX automatically issues a ticket ID and escalates the case to IT support by sending a notification email so a human can step in. The result is a seamless path from self-service to human escalation, without losing context or urgency.
 
