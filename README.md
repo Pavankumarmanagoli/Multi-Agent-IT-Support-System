@@ -106,8 +106,6 @@ This behavior is implemented in the Streamlit UI and the email tool wrapper.
 - Add more knowledge-base content and expand categories.
 - Add a dedicated admin console for IT staff.
 
-# SupportX AI Assist (Multi-Agent IT Support System)
-
 ## Demo Video  
  https://drive.google.com/file/d/1r-j4daaRMQZrLRVgH0orPak8D3yhldaG/view?usp=sharing  
 
