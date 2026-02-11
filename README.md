@@ -15,7 +15,8 @@ Imagine an employee whose Outlook crashes every time they open it. They launch S
 - **Email notification** when escalation is required.
 - **Streamlit UI** with custom styling for a friendly, support-centric experience.
 
-## Architecture at a glance
+##  Architecture
+![Architecture](images/Architecture.png)
 
 1. **User submits issue** in the Streamlit UI.
 2. **ClassifierAgent** categorizes the ticket.
